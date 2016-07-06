@@ -4,8 +4,5 @@ I'm not gonna use Git any more.
 So I'm just kidding.
 My boss is so stupid.
 My boss is ver stupid.
-<<<<<<< HEAD
 Creating a new branch is quick and simple and fast.
-=======
-Creating new branch is very convenient AND fast.
->>>>>>> feature1
+
